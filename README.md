@@ -4,15 +4,7 @@
 	"version": "1.9.86",
 	"description": "Software Engineer & Senior Fullstack Developer",
 	"keywords": [
-		"technology",
-		"science",
-		"innovation",
-		"consultancy",
-		"web",
-		"app",
-		"api",
-		"blockchain",
-		"token"
+		"technology", "science", "innovation", "consultancy", "scrum", "agile", "git", "web", "app", "api", "blockchain", "token"
 	],
 	"author": "JQ",
 	"repositories": [{
