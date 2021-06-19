@@ -17,6 +17,12 @@
 	  }, {
 		"type": "blog",
 		"url": "https://elhijodesatoshi.com"
+	}, {
+		"type": "resume - web",
+		"url": "https://yeikiu.github.io/"
+	}, {
+		"type": "resume - pdf",
+		"url": "https://yeikiu.github.io/resume.pdf"
 	}],
 	"bugs": {
 		"url": "https://github.com/yeikiu/yeikiu/issues"
