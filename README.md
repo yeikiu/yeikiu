@@ -1,16 +1,38 @@
-### Hi there 👋
+````json
+{
+	"name": "bio-package.json",
+	"version": "1.9.86",
+	"description": "MS in Computer Science & Senior Fullstack Developer",
+	"keywords": [
+		"technology",
+		"science",
+		"innovation",
+		"consultancy",
+		"procrastination"
+	],
+	"author": "JQ",
+	"repositories": [{
+		"type": "git",
+		"url": "https://github.com/yeikiu"
+	  }, {
+		"type": "blog",
+		"url": "https://elhijodesatoshi.com"
+	}],
+	"bugs": {
+		"url": "https://github.com/yeikiu/yeikiu/issues"
+	},
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"license": "_self",
+	"devDependencies": {
+		"coffee": "^2.0.4",
+		"music": "^9.1.1",
+		"muted-phone": "^4.2.3"
+	},
+	"scripts": {
+		"watch": "youtube --no-waste-time-mode --learn-something-new",
+		"fun": "coding ideas & play poker"
+	}
+}
 
-<!--
-**yeikiu/yeikiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````
