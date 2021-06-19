@@ -2,7 +2,7 @@
 {
 	"name": "bio-package.json",
 	"version": "1.9.86",
-	"description": "MS in Computer Science & Senior Fullstack Developer",
+	"description": "Software Engineer & Senior Fullstack Developer",
 	"keywords": [
 		"technology",
 		"science",
