@@ -7,19 +7,21 @@
 		"technology", "science", "innovation", "consultancy", "scrum", "agile", "git", "web", "app", "api", "blockchain", "token"
 	],
 	"author": "JQ",
-	"repositories": [{
-		"type": "git",
-		"url": "https://github.com/yeikiu?tab=repositories"
-	  }, {
-		"type": "blog",
-		"url": "https://elhijodesatoshi.com"
-	  }, {
-		"type": "resume - web",
-		"url": "https://yeikiu.github.io/"
-	  }, {
-		"type": "resume - pdf",
-		"url": "https://yeikiu.github.io/resume.pdf"
-	}],
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/yeikiu?tab=repositories"
+		}, {
+			"type": "blog",
+			"url": "https://elhijodesatoshi.com"
+		}, {
+			"type": "resume - web",
+			"url": "https://yeikiu.github.io/"
+		}, {
+			"type": "resume - pdf",
+			"url": "https://yeikiu.github.io/resume.pdf"
+		}
+	],
 	"bugs": {
 		"url": "https://github.com/yeikiu/yeikiu/issues"
 	},
