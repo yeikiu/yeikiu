@@ -8,7 +8,11 @@
 		"science",
 		"innovation",
 		"consultancy",
-		"procrastination"
+		"web",
+		"app",
+		"api",
+		"blockchain",
+		"token"
 	],
 	"author": "JQ",
 	"repositories": [{
