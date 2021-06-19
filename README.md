@@ -13,7 +13,7 @@
 	"author": "JQ",
 	"repositories": [{
 		"type": "git",
-		"url": "https://github.com/yeikiu"
+		"url": "https://github.com/yeikiu?tab=repositories"
 	  }, {
 		"type": "blog",
 		"url": "https://elhijodesatoshi.com"
