@@ -37,7 +37,7 @@
 	},
 	"scripts": {
 		"watch": "youtube --no-waste-time-mode --learn-something-new",
-		"fun": "coding ideas & play poker"
+		"fun": "turn ideas into code & play poker"
 	}
 }
 
