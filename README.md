@@ -1,42 +1,16 @@
-````json
-{
-	"name": "bio-package.json",
-	"version": "1.9.86",
-	"description": "Software Engineer & Senior Fullstack Developer",
-	"keywords": [
-		"technology", "science", "innovation", "consultancy", "scrum", "agile", "git", "web", "app", "api", "blockchain", "token"
-	],
-	"author": "JQ",
-	"repositories": [
-		{
-			"type": "git",
-			"url": "https://github.com/yeikiu?tab=repositories"
-		}, {
-			"type": "blog",
-			"url": "https://elhijodesatoshi.com"
-		}, {
-			"type": "resume - web",
-			"url": "https://yeikiu.github.io/"
-		}, {
-			"type": "resume - pdf",
-			"url": "https://yeikiu.github.io/resume.pdf"
-		}
-	],
-	"bugs": {
-		"url": "https://github.com/yeikiu/yeikiu/issues"
-	},
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
-	"license": "_self",
-	"devDependencies": {
-		"coffee": "^2.0.4",
-		"music": "^9.1.1",
-		"muted-phone": "^4.2.3"
-	},
-	"scripts": {
-		"watch": "youtube --no-waste-time-mode --learn-something-new",
-		"fun": "turn ideas into code & play poker"
-	}
-}
+<img src="https://pbs.twimg.com/profile_banners/770617016/1589251622/1500x500" width="100%" />
 
-````
+# JQ
+
+### Software Engineer • Senior Full-Stack Developer  
+
+---
+
+<p align="right"><i>
+"Life is a mountain of solvable problems, and I enjoy that."
+</i></p>  
+<p align="right">-James Dyson</p>
+
+---
+
+> See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io) or download the [PDF version](https://yeikiu.github.io/resume.pdf) 
